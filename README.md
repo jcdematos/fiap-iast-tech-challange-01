@@ -32,11 +32,11 @@ A base de dados contém 19 variáveis, com 2500 linhas de dados, todos únicos, 
 
 ## Metodologia
 
-A metodologia utilizada baseia-se no CRIPS-DM. Seguiram-se as seguintes fases:
+A metodologia utilizada baseia-se no CRISP-DM. Seguiram-se as seguintes fases:
 
 1. Entendimento de negócio: Buscou-se entender o NPS, como é importante na área de e-commerce e como está contextualizado no problema em questão. Através dessa fase definiu-se a pergunta que irá nortear as fases seguintes. 
 2. Entendimento dos dados: Buscou-se entender os dados em si, começando pela validação da qualidade, verificando se havia valores discrepantes, nulos ou duplicados. Por fim, analisou-se os dados de uma visão de estatistica descritiva, após isso aprofundou-se nos dados procurando entender as correlações existentes.
-3. Data Prepara: Realizou-se a preparação dos dados para o problema, em especial com a criação de classes do NPS, criando-se uma coluna para classificar em detrator, neutro e promotor. 
+3. Preparação dos dados: Realizou-se a preparação dos dados para o problema, em especial com a criação de classes do NPS, criando-se uma coluna para classificar em detrator, neutro e promotor. 
 
 ## Reprodução dos Resultados
 
