@@ -25,7 +25,7 @@ A base de dados contém 19 variáveis, com 2500 linhas de dados, todos únicos, 
 | 12 | `delivery_attempts` | int64 | Numérica | Número de tentativas de entrega |
 | 13 | `customer_service_contacts` | int64 | Numérica | Número de contatos do cliente com atendimento |
 | 14 | `resolution_time_days` | int64 | Numérica | Tempo para resolução de problemas (dias) |
-| 15 | `nps_score` | float64 | **🎯 Target** | Nota de satisfação NPS (0–10), coletada após a compra |
+| 15 | `nps_score` | float64 | Numérica | Nota de satisfação NPS (0–10), coletada após a compra |
 | 16 | `repeat_purchase_30d` | int64 | Categórica | Recompra em até 30 dias (0 = não, 1 = sim) |
 | 17 | `complaints_count` | int64 | Numérica | Número de reclamações registradas pelo cliente |
 | 18 | `csat_internal_score` | float64 | Numérica | Score interno de satisfação do cliente |
